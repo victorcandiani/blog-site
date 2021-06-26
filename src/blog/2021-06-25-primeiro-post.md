@@ -5,6 +5,7 @@ author: Victor Candiani
 date: 2021-06-25T01:41:06.272Z
 tags:
   - post
+  - featured
 image: /assets/blog/05032021-_mg_3921.jpg
 imageAlt: teste de alt de imagem
 ---
